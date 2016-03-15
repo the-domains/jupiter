@@ -10,8 +10,8 @@ description: >-
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T13:36:37.901Z'
-dateModified: '2016-03-15T13:36:26.479Z'
+datePublished: '2016-03-15T13:41:52.044Z'
+dateModified: '2016-03-15T13:40:35.745Z'
 title: Chapter 1 - The Backstory
 author: []
 sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
@@ -28,7 +28,7 @@ _type: Article
 ---
 # Chapter 1 - The Backstory
 
-## Jupiter Jones sounds like a foxxy black detective from the
+Jupiter Jones sounds like a foxxy black detective from the
 70's
 
 Part time newspaper reporter for the detroit watchtower. Former side piece of Pappa Bontemps. She turned informant and is now wanted by half the crooks on
@@ -64,10 +64,10 @@ as the mother she never had. But Peggy has a secret past......
 
 Peggy was once part of an elite team of female commandos,
 smuggled in under the radar to gather intelligence in what would be the final
-days of the Vietnam war.Owing to an
+days of the Vietnam war. Owing to an
 ambush, and a mole in the covert organisation into which she was drafter, they
 were extracted under duress to a shadow site somewhere near panama.It was there, following years of torture she
-med her guiding light.A guard who,
+met her guiding light. A guard who,
 feeling sympathy for her cause, would leave her small wood carvings under her
 pillow to remind her there was still beauty left in the world.He would take one away each day and bring her
 a new one, fearing discovery.
@@ -88,4 +88,4 @@ murdered guard.
 A man whose name she
 would never forget.
 
-Julius Bontemps.
+**Julius Bontemps.**
