@@ -10,8 +10,8 @@ description: >-
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T13:41:52.044Z'
-dateModified: '2016-03-15T13:40:35.745Z'
+datePublished: '2016-03-15T13:43:50.303Z'
+dateModified: '2016-03-15T13:43:19.718Z'
 title: Chapter 1 - The Backstory
 author: []
 sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
@@ -26,6 +26,8 @@ url: chapter-1-the-backstory/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e0440d-cc37-49af-a8fd-d17f7d78b215.jpg)
+
 # Chapter 1 - The Backstory
 
 Jupiter Jones sounds like a foxxy black detective from the
