@@ -10,8 +10,8 @@ description: >-
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T14:15:23.751Z'
-dateModified: '2016-03-15T14:12:59.749Z'
+datePublished: '2016-03-15T14:36:57.543Z'
+dateModified: '2016-03-15T14:22:37.433Z'
 title: Prologue - The Backstory
 author: []
 sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
@@ -91,3 +91,7 @@ A man whose name she
 would never forget.
 
 **Julius Bontemps.**
+
+**[Continue to Chapter 1][0]**
+
+[0]: null
