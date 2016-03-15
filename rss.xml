@@ -4,22 +4,22 @@
         <description><![CDATA[Flashback Sally and Jupiter Jones |]]></description>
         <link>https://thegrid.ai/jupiter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 14:15:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jupiter/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Chapter 1]]></title>
-            <description><![CDATA[<article><h1>Chapter 1</h1><p>Winter arrives in Detroit, and a madman is on the loose. </p></article>]]></description>
-            <link>https://thegrid.ai/jupiter/chapter-1/index.html</link>
-            <guid isPermaLink="false">00f38099-a81b-4431-9bd9-5180ad0a3777</guid>
-            <pubDate>Tue, 15 Mar 2016 14:12:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Prologue - The Backstory]]></title>
             <description><![CDATA[<article><h1>Prologue - The Backstory</h1><p>Part time newspaper reporter for the detroit watchtower. Former side piece of Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 the street.</p></article>]]></description>
             <link>https://thegrid.ai/jupiter/chapter-1-the-backstory/index.html</link>
             <guid isPermaLink="false">a2ec7061-5dd3-46fe-9fd5-78eed3c4731f</guid>
-            <pubDate>Tue, 15 Mar 2016 13:58:04 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 14:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chapter 1]]></title>
+            <description><![CDATA[<article><h1>Chapter 1</h1><p>Winter arrives in Detroit, and a madman is on the loose. </p></article>]]></description>
+            <link>https://thegrid.ai/jupiter/chapter-1/index.html</link>
+            <guid isPermaLink="false">00f38099-a81b-4431-9bd9-5180ad0a3777</guid>
+            <pubDate>Tue, 15 Mar 2016 14:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
