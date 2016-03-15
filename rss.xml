@@ -2,18 +2,18 @@
     <channel>
         <title><![CDATA[jupiter]]></title>
         <description><![CDATA[jupiter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jupiter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 13:36:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 13:36:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jupiter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chapter 1 - The Backstory]]></title>
             <description><![CDATA[<article><h1>Chapter 1 - The Backstory</h1><h2>Jupiter Jones sounds like a foxxy black detective from the
 70's</h2><p>Part time newspaper reporter for the detroit watchtower. Former side piece of Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 the street.</p></article>]]></description>
-            <link>undefinedchapter-1-the-backstory/index.html</link>
+            <link>https://thegrid.ai/jupiter/chapter-1-the-backstory/index.html</link>
             <guid isPermaLink="false">a2ec7061-5dd3-46fe-9fd5-78eed3c4731f</guid>
-            <pubDate>Tue, 15 Mar 2016 13:35:49 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 13:36:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
