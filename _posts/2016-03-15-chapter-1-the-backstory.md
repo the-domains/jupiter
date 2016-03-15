@@ -1,17 +1,17 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >-
   Part time newspaper reporter for the detroit watchtower. Former side piece of
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T13:58:04.898Z'
-dateModified: '2016-03-15T13:58:00.332Z'
+datePublished: '2016-03-15T14:15:23.751Z'
+dateModified: '2016-03-15T14:12:59.749Z'
 title: Prologue - The Backstory
 author: []
 sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
