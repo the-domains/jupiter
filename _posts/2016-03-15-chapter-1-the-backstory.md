@@ -10,8 +10,8 @@ description: >-
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T13:43:50.303Z'
-dateModified: '2016-03-15T13:43:19.718Z'
+datePublished: '2016-03-15T13:44:41.942Z'
+dateModified: '2016-03-15T13:44:38.729Z'
 title: Chapter 1 - The Backstory
 author: []
 sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
@@ -68,7 +68,7 @@ Peggy was once part of an elite team of female commandos,
 smuggled in under the radar to gather intelligence in what would be the final
 days of the Vietnam war. Owing to an
 ambush, and a mole in the covert organisation into which she was drafter, they
-were extracted under duress to a shadow site somewhere near panama.It was there, following years of torture she
+were extracted under duress to a shadow site somewhere near panama. It was there, following years of torture she
 met her guiding light. A guard who,
 feeling sympathy for her cause, would leave her small wood carvings under her
 pillow to remind her there was still beauty left in the world.He would take one away each day and bring her
