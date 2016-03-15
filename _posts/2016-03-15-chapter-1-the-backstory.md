@@ -10,18 +10,18 @@ description: >-
   Pappa Bontemps. She turned informant and is now wanted by half the crooks on
 
   the street.
-datePublished: '2016-03-15T13:35:49.556Z'
-dateModified: '2016-03-15T13:35:41.219Z'
+datePublished: '2016-03-15T13:36:37.901Z'
+dateModified: '2016-03-15T13:36:26.479Z'
 title: Chapter 1 - The Backstory
 author: []
+sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-chapter-1-the-backstory.md
-published: true
 url: chapter-1-the-backstory/index.html
 _type: Article
 
